@@ -45,15 +45,7 @@
   <sub>Building responsive dashboards & reusable component libraries</sub>
 </div>
 
----
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-chackroborty&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF" />
-</div>
-
----
 
 ### 🌐 Connect With Me
 
